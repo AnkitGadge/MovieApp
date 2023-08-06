@@ -5,13 +5,7 @@ import MovieCard from "./MovieCard";
 // 36b0c289
 const API_URL = "http://www.omdbapi.com?apikey=36b0c289";
 
-const movie1 = {
-  Title: "Amaznig Spiderman Syndrome",
-  Year: "2012",
-  imdbID: "tt2586634",
-  Type: "movie",
-  Poster: "N/A",
-};
+
 
 // const App = () => {
 //   const [movies, setMovies] = useState([]);
